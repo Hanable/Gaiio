@@ -1,2 +1,2 @@
-# hi im mdm
-Learning C#
+//MyFirstProgram
+//Learning C#
